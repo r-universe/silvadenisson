@@ -8,3 +8,8 @@
 	url = https://github.com/silvadenisson/electionsbr
 	shallow = true
 	registered = true
+[submodule "politicsR"]
+	path = politicsR
+	url = https://github.com/silvadenisson/politicsr
+	shallow = true
+	registered = true
