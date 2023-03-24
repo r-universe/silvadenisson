@@ -1,9 +1,0 @@
-[
-  {
-    "package": "electionsBR",
-    "oncran": true
-  },
-  {
-    "package": "politicsR"
-  }
-]
